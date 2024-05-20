@@ -470,7 +470,7 @@ main >div > .banner-txt {
     padding: 2vh 0;
     margin-bottom: 2vh;
     border-radius: 50px;
-    border-color: white;
+    border-color: none;
     font-size: large;
 }
 
